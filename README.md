@@ -13,8 +13,6 @@ I am a Computer Science Engineering student at the Benemérita Universidad Autó
 - 💻 Developing academic and personal software projects
 - 🌱 Improving my programming and software development skills
 
-## 💼 Experience
-
 ## 💼 Experiencia
 
 ### 🖥️ Monitora de Cómputo — BUAP
